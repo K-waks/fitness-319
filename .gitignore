@@ -3,7 +3,7 @@
 node_modules
 .tmp
 npm-debug.log
-
+plan.json
 __pycache__/
 *.py[cod]
 *$py.class
